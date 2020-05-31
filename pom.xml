@@ -8,7 +8,7 @@
     <name>Project Build</name>
 
     <modules>
-        <module>project</module>
+        <module>DeployTestApp</module>
     </modules>
 
     <properties>

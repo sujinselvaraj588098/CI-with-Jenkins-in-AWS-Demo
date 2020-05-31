@@ -4,10 +4,10 @@
     <parent>
         <groupId>ci.jenkins.aws</groupId>
         <artifactId>proj3</artifactId>
-        <version>1.0-RAMA</version>
+        <version>1.0.1</version>
     </parent>
 
-    <artifactId>project</artifactId>
+    <artifactId>DeployTestApp</artifactId>
     <packaging>war</packaging>
     <name>Project</name>
  <dependencies>
